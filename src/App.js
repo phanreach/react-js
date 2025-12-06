@@ -1,7 +1,7 @@
 import "./App.css";
-import Task from "./Components/Task";
+import Product from "./Components/Products";
 function App() {
-  return <Task />;
+  return <Product />;
 }
 
 export default App;
