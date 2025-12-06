@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Reach",
+      "position": "Web developer",
+      "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "position": "UX/UI Designer",
+      "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+    },
+    {
+      "id": 3,
+      "name": "Jane",
+      "position": "Frontend Developer",
+      "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+    },
+    {
+      "id": 4,
+      "name": "Mike",
+      "position": "Backend Developer",
+      "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+    }
+  ]
+}
